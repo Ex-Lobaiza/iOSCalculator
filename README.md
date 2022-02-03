@@ -4,8 +4,7 @@ Calculator written in SwiftUI
 Introduction
 ------------
 
-- iOS App Using Apple SwiftUI. Combine Framework to create a system-like calculator
-- Feel free to fork or clone this project!
+- iOS App Using Apple SwiftUI.
 
 Pre-requisites
 --------------
